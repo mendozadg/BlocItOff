@@ -1,5 +1,4 @@
 require 'rails_helper'
-require 'bcrypt'
 
 RSpec.describe UsersController, type: :controller do
   let(:new_user_attributes) do
